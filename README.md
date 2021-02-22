@@ -1,5 +1,5 @@
 # gamespot
-
+A site that allows user add and delete blog posts for games with an admin dashboard built with firebase for database and authentication.
 ## Project setup
 ```
 npm install
